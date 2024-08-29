@@ -12,7 +12,7 @@ We evaluate Duplex in an out-of-distribution (OOD) multi-context MuJoCo.Ant scen
     <tr>
         <td>
           <video controls preload=metadata width="325" height="175">
-            <source src="https://media.githubusercontent.com/media/SonyResearch/project_game-ai_duplex/main/mujoco_ant_jump_0.mp4" type="video/mp4">
+            <source src="https://media.githubusercontent.com/media/SonyResearch/project_game_ai_duplex/main/mujoco_ant_jump_0.mp4" type="video/mp4">
           </video><p style="text-align:center;">MuJoCo Ant (Jump)</p>
         </td>
     </tr>
@@ -27,7 +27,7 @@ In this experimentm, we evaluate a DUPLEX agent in another OOD multi-context MuJ
     <tr>
         <td>
           <video controls preload=metadata width="325" height="175">
-            <source src="https://media.githubusercontent.com/media/SonyResearch/project_game-ai_duplex/main/mujoco_ant_walk_0.mp4" type="video/mp4">
+            <source src="https://media.githubusercontent.com/media/SonyResearch/project_game_ai_duplex/main/mujoco_ant_walk_0.mp4" type="video/mp4">
           </video><p style="text-align:center;">MuJoCo Ant (Walk)</p>
         </td>
     </tr>
@@ -42,7 +42,7 @@ Similarly to the Ant scenario, we evaluate Duplex while operating OOD with a dif
     <tr>
         <td>
           <video controls preload=metadata width="325" height="175">
-            <source src="https://media.githubusercontent.com/media/SonyResearch/project_game-ai_duplex/main/mujoco_walker_jump_0.mp4" type="video/mp4">
+            <source src="https://media.githubusercontent.com/media/SonyResearch/project_game_ai_duplex/main/mujoco_walker_jump_0.mp4" type="video/mp4">
           </video><p style="text-align:center;">MuJoCo Walker (Jump)</p>
         </td>
     </tr>
@@ -55,7 +55,7 @@ In this experiment we evaluate DUPLEX while operating in OOD dynamics while bein
     <tr>
         <td>
           <video controls preload=metadata width="325" height="175">
-            <source src="https://media.githubusercontent.com/media/SonyResearch/project_game-ai_duplex/main/mujoco_walker_walk_0.mp4" type="video/mp4">
+            <source src="https://media.githubusercontent.com/media/SonyResearch/project_game_ai_duplex/main/mujoco_walker_walk_0.mp4" type="video/mp4">
           </video><p style="text-align:center;">MuJoCo Walker (Walk)</p>
         </td>
     </tr>
@@ -71,7 +71,7 @@ In GranTurismo7 (GT), we observe that policies manage to score similar lap-times
     <tr>
         <td>
           <video controls preload=metadata width="325" height="175">
-            <source src="https://media.githubusercontent.com/media/SonyResearch/project_game-ai_duplex/main/gt_near_optimality_comparison.mp4" type="video/mp4">
+            <source src="https://media.githubusercontent.com/media/SonyResearch/project_game_ai_duplex/main/gt_near_optimality_comparison.mp4" type="video/mp4">
           </video><p style="text-align:center;">Near-Optimality</p>
         </td>
     </tr>
@@ -84,7 +84,7 @@ Once the optimality constraint becomes more forgiving, we observer that the DUPL
     <tr>
         <td>
           <video controls preload=metadata width="325" height="175">
-            <source src="https://media.githubusercontent.com/media/SonyResearch/project_game-ai_duplex/main/gt_baseline_diversity.mp4" type="video/mp4">
+            <source src="https://media.githubusercontent.com/media/SonyResearch/project_game_ai_duplex/main/gt_baseline_diversity.mp4" type="video/mp4">
           </video><p style="text-align:center;">Performance vs Diversity</p>
         </td>
     </tr>
@@ -97,7 +97,7 @@ Here, we report an interesting result that showcases how DUPLEX can be used to t
     <tr>
         <td>
           <video controls preload=metadata width="325" height="175">
-            <source src="https://media.githubusercontent.com/media/SonyResearch/project_game-ai_duplex/main/gt_aggressiveness.mp4" type="video/mp4">
+            <source src="https://media.githubusercontent.com/media/SonyResearch/project_game_ai_duplex/main/gt_aggressiveness.mp4" type="video/mp4">
           </video><p style="text-align:center;">Aggressiveness descriptors test</p>
         </td>
     </tr>
